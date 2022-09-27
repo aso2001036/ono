@@ -1,0 +1,15 @@
+{
+"effect.bakibaki": {"sounds": [{"name": "effect/bakibaki"}]},
+"effect.toilet": {"sounds": [{"name": "effect/toilet"}]},
+"effect.toilet_near": {"sounds": [{"name": "effect/toilet_near"}]},
+"effect.yuurei": {"sounds": [{"name": "effect/yuurei"}]},
+"effect.syoubou": {"sounds": [{"name": "effect/syoubou"}]},
+"effect.kimowarai": {"sounds": [{"name": "effect/kimowarai"}]},
+"effect.bukimi": {"sounds": [{"name": "effect/bukimi"}]},
+"effect.ghosts": {"sounds": [{"name": "effect/ghosts"}]},
+"effect.hoeru": {"sounds": [{"name": "effect/hoeru"}]},
+"effect.badend": {"sounds": [{"name": "effect/badend"}]},
+"effect.kodomo": {"sounds": [{"name": "effect/kodomo"}]},
+"effect.osou": {"sounds": [{"name": "effect/osou"}]},
+"effect.souon": {"sounds": [{"name": "effect/souon"}]}
+}

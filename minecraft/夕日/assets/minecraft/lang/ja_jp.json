@@ -1,0 +1,20 @@
+{
+"menu.game"="【HORROR MAP】夕日の沈む、あの夜に。<<ゲームメニュー>>",
+"menu.returnToGame"="夕日の沈む、あの夜に。を再開する",
+"options.sounds"="サウンド設定(必須)",
+"soundCategory.ambient"="環境音(任意)",
+"soundCategory.block"="ブロック(任意)",
+"soundCategory.hostile"="敵対的生物(任意)",
+"soundCategory.master"="主音量(大きめ推奨)",
+"soundCategory.music"="BGM(OFF)",
+"soundCategory.neutral"="友好的生物(任意)",
+"soundCategory.player"="プレイヤー(任意)",
+"soundCategory.record"="レコード(任意)",
+"soundCategory.voice"="効果音・声(ＯＮ推奨・調節)",
+"block.minecraft.sugar_cane": "救急箱",
+"item.minecraft.stick": "お祓い棒",
+"item.minecraft.golden_apple": "救急箱",
+"item.minecraft.rotten_flesh": "脳",
+"entity.minecraft.zombie": "アカボウズ",
+"soundCategory.weather"="天候(任意)"
+}
